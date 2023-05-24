@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbernas
 - 👀 I’m interested in lots of things
-- 🌱 I’m currently learning HTML, Python, Java, CSS and C
+- 🌱 I’m currently learning everything
 - 📫 How to reach me bradenbernas@hotmail.com
 
 <!---
